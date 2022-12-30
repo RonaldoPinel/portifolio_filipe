@@ -1,0 +1,119 @@
+
+@media only screen and (max-width: 319px){
+.oculto{
+        
+     /* background-color: aqua; */
+}
+.real{
+    display: none;
+}
+
+
+*{box-sizing: border-box;} 
+body{ margin: 0;}
+
+
+div {
+    border-bottom: 1px solid rgb(138,138,138);
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+.img{
+    width: 100%;
+}
+
+.contato{
+    display: inline-block;
+    width: 100%;
+    padding: 30px;
+    
+
+}
+.div1{
+    display: inline-block;
+    width: 100%;
+    /* border: 1px solid red; */
+   
+
+}
+
+
+.whats{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 200px;
+}
+
+.whats:hover{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 200px;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 320px) {
+*{box-sizing: border-box;} 
+body{ margin: 0;}
+.oculto{
+    display: none;
+}
+
+div {
+    border-bottom: 1px solid rgb(138,138,138);
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 30px;
+}
+
+img{
+    width: 100%;
+}
+
+.img{
+    width: 100%;
+}
+
+.contato{
+    display: inline-block;
+    width: 100%;
+    padding: 30px;
+    
+
+}
+.div1{
+    display: inline-block;
+    width: 100%;
+    /* border: 1px solid red; */
+   
+
+}
+
+
+.whats{
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 200px;
+}
+
+.whats:hover{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    width: 200px;
+}
+}
